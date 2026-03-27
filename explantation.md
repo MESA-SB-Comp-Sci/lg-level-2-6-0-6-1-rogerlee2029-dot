@@ -1,1 +1,1 @@
-<!-- Write explantation below of tag choice below for an attempt at a level 4  -->
+I used each of these css styles because it allows the background and makes the website more influencing.

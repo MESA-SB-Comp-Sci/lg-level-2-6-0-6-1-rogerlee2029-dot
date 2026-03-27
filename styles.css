@@ -2,3 +2,40 @@
     box-sizing: border-box;
 }
 
+#heading-1{
+    color:white;
+    background-color:pink;
+    width:960px;
+    /* The reason for this width is because regular computers have a width of 960 px when centered and it is best matching to what the image looks like */
+}
+.full-background{
+    background-color:gray;
+}
+.p1{
+    color:yellow;
+    /*  */
+}
+.p2{
+    color: yellowgreen;
+}
+.p3{
+    color:lightblue;
+}
+.border1{
+    background-color:lightyellow;
+    height:100px;
+    width:960px;
+    padding:2px;
+    border:4px solid yellow;
+    text-align:center;
+    /* The border spaced apart from eachother and can be changed with text-align when needed */
+}
+.footer-feature{
+    color:white
+}
+.p4{
+    color:white;
+}
+.img-edit{
+    disp
+}
