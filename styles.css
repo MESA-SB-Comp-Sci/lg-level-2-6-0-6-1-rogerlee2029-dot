@@ -30,6 +30,12 @@
     text-align:center;
     /* The border spaced apart from eachother and can be changed with text-align when needed */
 }
+
+.space-appart{
+    margin-bottom: 50px;
+}
+
+
 .footer-feature{
     color:white
 }
@@ -37,5 +43,5 @@
     color:white;
 }
 .img-edit{
-    disp
+    
 }
